@@ -5,3 +5,6 @@
 # <h5>Heading 5</h5>
 # <h6>Heading 6</h7>
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
